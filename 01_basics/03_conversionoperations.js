@@ -23,16 +23,16 @@ let score ="akshat"
 
 let number = 40
 
-let stringnumber = String(number)
-console.log(stringnumber);
-console.log(typeof stringnumber)
+// let stringnumber = String(number)
+// console.log(stringnumber);
+// console.log(typeof stringnumber)
 
 
 //***************************OPERATIONS*************************************//
 
-let value = 5
-let negvalue = -5
-console.log(negvalue);
+// let value = 5
+// let negvalue = -5
+// console.log(negvalue);
 
 // console.log(2+2);
 // console.log(2-2);
@@ -43,7 +43,7 @@ console.log(negvalue);
 
 
 let str1 = "Hello"
-let str2 = "Akshat"
+let str2 = " Akshat"
 
 let str3 = str1 + str2 
 console.log(str3);
